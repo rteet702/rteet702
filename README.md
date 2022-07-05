@@ -1,6 +1,6 @@
 # Welcome to me!
 
-![Image of a man with a frozen beard.](yeet.jpg)
+![Image of frozen mountain-tops.](yeet.jpg)
 ## A little about me:
 Hello! Chances are that since you're here, you'd like to learn a little more about me! My name is Robert, I'm originally from Round Lake Beach, Illinois, but now I live in beautiful Grand Lake, Colorado! Currently for work, I'm a ski / bike patroller 
 providing basic EMS to anyone who may need it. I've always had an interest in Software Development, as well 
