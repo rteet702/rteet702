@@ -7,9 +7,8 @@ providing basic EMS to anyone who may need it. I've always had an interest in So
 as coding in general. 
 
 My interest for coding first started back in 2008, when I discovered a game called Roblox. Essentially, Roblox 
-is somewhat of a game engine, (more so now than it was back then), that primarily h ad you develop with Lua. 
-Since then, I've spent a lot of time toying around with other languages like C#, Python, C++, C, and HTML, and 
-I finally decided it's time for me to commit to the bit and begin my journey down this career path.
+is somewhat of a game engine, (more so now than it was back then), that primarily had you develop with Lua. 
+Since then, I've spent a lot of time toying around with other languages like C#, Python, C++, C, and HTML. Now, I've finally decided it's time for me to commit to the bit and begin my journey down this career path.
 
 ## My goals:
 Currently, I'm a student going through the Part Time Accelerated 3 Full Stack course provided by Coding Dojo! I'm hoping with the time I spend in the course, I'll be able to achieve these goals. 
