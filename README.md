@@ -18,3 +18,7 @@ Currently, I'm a student going through the Part Time Accelerated 3 Full Stack co
 - Spend my time working on one of my biggest passion projects: Build an open-source framework for web-based banking applications.
 - Hire on and begin my career as a full stack software developer. 
 - Find new ways every day to continue my learning and hopefully spread the knowledge I gain along the way. 
+
+## Contact me:
+For professional queries and or collaboration discussion, email me at: 
+robert@teets.dev
