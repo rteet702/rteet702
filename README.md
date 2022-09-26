@@ -9,9 +9,9 @@ is somewhat of a game engine, (more so now than it was back then), that primaril
 Since then, I've spent a lot of time toying around with other languages like C#, Python, C++, C, and HTML. Now, I've finally decided it's time for me to commit to the bit and begin my journey down this career path.
 
 ## Stats:
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteet702&show_icons=true&count_private=true)
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteet702&show_icons=true&count_private=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rteet702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rteet702&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My goals:
 Currently, I'm a student going through the Part Time Accelerated 3 Full Stack course provided by Coding Dojo! I'm hoping with the time I spend in the course, I'll be able to achieve these goals. 
